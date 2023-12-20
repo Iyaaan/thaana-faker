@@ -18,7 +18,7 @@ Usage
         sentences,
         paragraph,
         paragraphs
-    } from 'thaana-faker/dist';
+    } from 'thaana-faker';
     
     // Example usage
     const randomWord = word();
