@@ -1,5 +1,5 @@
-import wordList from './data/thaana.json';
-import endingsList from './data/end.json';
+import wordList from './data/simple_words.json';
+import endingsList from './data/end_words.json';
 
 function getRandomElement<T>(array: T[]): T {
     return array[Math.floor(Math.random() * array.length)];
