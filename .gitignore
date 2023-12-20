@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+
+# Build files
+dist/
+*.js
+*.js.map
+
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
