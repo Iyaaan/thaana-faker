@@ -1,5 +1,3 @@
-  Thaana Faker
-
 Thaana Faker
 ============
 
