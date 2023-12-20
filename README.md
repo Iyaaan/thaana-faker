@@ -6,7 +6,7 @@ Thaana Faker is a simple package that generates random Thaana language text for 
 Installation
 ------------
 
-    npm install thaana-faker
+    npm i Iyaaan/thaana-faker
 
 Usage
 -----
@@ -18,7 +18,7 @@ Usage
         sentences,
         paragraph,
         paragraphs
-    } from 'thaana-faker';
+    } from 'thaana-faker/dist';
     
     // Example usage
     const randomWord = word();
