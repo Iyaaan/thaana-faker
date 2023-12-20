@@ -63,3 +63,8 @@ License
 -------
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Acknowledgements
+----------------
+
+This library is inspired by [Dhivehi Faker HTTP](https://github.com/baivaru/dhivehi-faker-http/). Special thanks to the contributors of the original project.
